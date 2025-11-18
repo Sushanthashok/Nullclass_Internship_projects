@@ -3,7 +3,7 @@
 
 Attendance System Model : https://github.com/Sushanthashok/Attendance_system_task_1.git    
 
-Animal Detection Model : https://github.com/Sushanthashok/Animal_detection.git               
+Animal Detection Model : https://github.com/Sushanthashok/Animal_Detection_Model.git               
 
 Drowsiness Detection Model : https://github.com/Sushanthashok/Drowsiness_detection.git         
 
