@@ -11,4 +11,4 @@ Nationality Detection Model : https://github.com/Sushanthashok/Nationality_Detec
 
 Sign Language Detection : https://github.com/Sushanthashok/Sign_Language__Detection.git    
 
-Car Colour Detection : https://github.com/Sushanthashok/Car_colour_detection.git
+Car Colour Detection : https://github.com/Sushanthashok/Car_colour_Detection_.git
